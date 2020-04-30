@@ -6,8 +6,8 @@ function validate()
 	var un = document.login.username.value;
 	var pw = document.login.password.value;
 	var valid = false;
-	var usernameArray = ["MEHATRONIKA"];
-	var passwordArray = ["UNINhakerija"];
+	var usernameArray = ["Dominik","Leonardo","Tomislav","Lovro"];
+	var passwordArray = ["UNINhakerija","UNINhakerija","UNINhakerija","UNINhakerija"];
 	for (var i = 0; i < usernameArray.length; i++)
  {
 
